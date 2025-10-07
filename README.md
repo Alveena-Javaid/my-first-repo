@@ -1,6 +1,3 @@
 # My first repository
 
-HEY!
-
-
-
+This line was merged from both branches.
