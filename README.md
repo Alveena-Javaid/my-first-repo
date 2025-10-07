@@ -1,6 +1,6 @@
 # My first repository
 
-I have add text in it
+Text added.
 
-
+Another text.
 
